@@ -1,0 +1,1 @@
+This is Program 7 of RTOS lab assignment. Writing to the file till enter is encountered.

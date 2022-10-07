@@ -74,12 +74,12 @@ void displayData(FILE *a, int mode){
         fscanf(a,"%d",&s.marks[i]);
         if(s.marks[i]<80) flag=0;
       }
-      if(mode==0){
+    if(mode==0){
 	printf("\n%s %s",s.name,s.section);
 	for(int i=0;i<5;i++) printf(" %d",s.marks[i]);    	
     } 
     if(mode==1 && flag==1){
-    	printf("%s %s",s.name,s.section);
+    	printf("\n%s %s",s.name,s.section);
 	for(int i=0;i<5;i++) printf(" %d",s.marks[i]); 
     }   
   }	  
