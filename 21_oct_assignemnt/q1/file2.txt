@@ -1,0 +1,1 @@
+Additionally, scripting languages like PHP, Python, Perl, and JavaScript are employed at the webserver level to power dynamic websites and applications.

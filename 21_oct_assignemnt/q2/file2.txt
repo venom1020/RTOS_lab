@@ -1,0 +1,3 @@
+When taking advantage of the benefits of these languages, you might reach a point where your application or website is filled with them.
+
+This requires extra attention to organize everything and keep track of which scripts you are using. Otherwise, it will be impractical to maintain them.
